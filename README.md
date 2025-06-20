@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Aitor (AitGareng)
 
-<!--
-**AitGareng/AitGareng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico en Desarrollo de Aplicaciones Web (DAW), a falta de completar el proyecto final  
+🔧 Apasionado por el backend con **Java** y **Spring Boot**  
+📦 Preparándome para mis prácticas en **Signaturit**, donde trabajaré con **Symfony**, **Doctrine** y **Twig**  
+🎮 Desarrollando una app personal para gestionar mi colección de videojuegos (de PS1 a PS5)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que uso y estoy aprendiendo
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📌 Proyecto destacado
+
+- 🎮 [Mi colección de juegos](https://github.com/AitGareng/coleccionjuegos): Aplicación para gestionar y valorar mi colección personal de videojuegos.
+
+---
+
+## 📫 Contacto
+
+- ✉️ Correo: ait24487@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/aitor-enguidanos
+- ---
+
+> *"Unas veces se gana, y otras se aprende."*
