@@ -1,8 +1,7 @@
 # 👋 ¡Hola! Soy Aitor (AitGareng)
 
 🎓 Técnico en Desarrollo de Aplicaciones Web (DAW), a falta de completar el proyecto final  
-🔧 Apasionado por el backend con **Java** y **Spring Boot**  
-📦 Preparándome para mis prácticas en **Signaturit**, donde trabajaré con **Symfony**, **Doctrine** y **Twig**  
+🔧 Apasionado por el backend con **Java** y **Spring Boot**    
 🎮 Desarrollando una app personal para gestionar mi colección de videojuegos (de PS1 a PS5)
 
 ---
