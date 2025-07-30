@@ -1,3 +1,4 @@
+![Banner](https://i.imgur.com/XYZ123.png)
 # 👋 ¡Hola! Soy Aitor (AitGareng)
 
 🎓 Técnico en Desarrollo de Aplicaciones Web (DAW), a falta de completar el proyecto final  
